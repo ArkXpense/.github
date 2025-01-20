@@ -2,6 +2,8 @@
 
 ArkXpense is a decentralized expense-sharing application built on Starknet, designed to automate and streamline group expense management. With a focus on transparency, trustlessness, and efficiency, ArkXpense ensures all transactions are verifiable and secure, leveraging blockchain technology to revolutionize financial collaboration.
 
+[Check our Product Research Document](https://docs.google.com/document/d/1sRFOQnngaoA5DXKDAWjHPEkxMJahRwyDdK4qmfRdMNQ/edit?tab=t.0#heading=h.ha23ivt836qv)
+
 ## 🌟 Key Features
 
 1. **Expense Tracking**
